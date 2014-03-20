@@ -1,1 +1,1 @@
-﻿
+include("./Model/Person/Person-events.js");include("./Model/Company/Company-methods.js");include("./Model/Company/Company-events.js");

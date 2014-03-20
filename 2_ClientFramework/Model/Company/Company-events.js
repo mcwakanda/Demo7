@@ -1,0 +1,1 @@
+model.Company.numEmployees.onGet = function() {	return this.employees.length;};
